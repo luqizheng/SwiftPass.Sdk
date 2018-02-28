@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwiftPass.Sdk", "SwiftPass.Sdk\SwiftPass.Sdk.csproj", "{35F582AB-B45A-4CC7-9588-A8032377134E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwiftPass.Test", "SwiftPass.Test\SwiftPass.Test.csproj", "{52A78F40-C66D-4876-B810-33C65497F86A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F582AB-B45A-4CC7-9588-A8032377134E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F582AB-B45A-4CC7-9588-A8032377134E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F582AB-B45A-4CC7-9588-A8032377134E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F582AB-B45A-4CC7-9588-A8032377134E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A78F40-C66D-4876-B810-33C65497F86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A78F40-C66D-4876-B810-33C65497F86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A78F40-C66D-4876-B810-33C65497F86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A78F40-C66D-4876-B810-33C65497F86A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F65A59-D94C-469C-85CF-9770EE94E883}
+	EndGlobalSection
+EndGlobal
